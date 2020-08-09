@@ -1,7 +1,13 @@
 
 ## Project: Data Modeling with Postgres
+Third project in the [Udacity Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
 
-####Introduction
+
+![https://confirm.udacity.com/PLQJPKUN](https://github.com/MarkNoordraven/Data-Engineering-Nanodegree-CapstoneProject/blob/master/Data%20Engineering%20certificate.PNG)
+
+
+
+#### Introduction
 A startup called Sparkify wants to analyze their data of songs and user activity on their music streaming app.
 
 The goal is to move their data warehouse to a data lake. In order to fulfill this, a data pipeline which loads JSON song and log data, turns these into fact and dimensional tables, and writes these back to S3.
